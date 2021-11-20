@@ -13,7 +13,6 @@ body{
 }
 
 
-
 h1{
   color:darkgreen ;
   margin-top: 0px ;
@@ -24,11 +23,13 @@ h2{
   color: red  ;
 }
 
+img {
+  border-radius: 50%; 
+}
 
 p{
   color:grey ;
 }
-
 
 div{
   width:500px;
