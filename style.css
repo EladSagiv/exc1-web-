@@ -1,0 +1,53 @@
+
+
+body{
+  background-image: url("https://imagizer.imageshack.com/img923/7495/yNDsqm.jpg") ;
+  text-align: center ;
+  height: 900px;
+  background-position: center;
+  background-repeat: repeat-x;
+  background-size: cover;
+  position: relative;
+  direction: rtl ;
+  font-family: Calibri ;
+}
+
+
+
+h1{
+  color:darkgreen ;
+  margin-top: 0px ;
+  text-align: center ;
+   
+}
+h2{
+  color: red  ;
+}
+
+
+p{
+  color:grey ;
+}
+
+
+div{
+  width:500px;
+  margin-left: auto;
+  margin-right: auto ;
+  border-width: 1px ;
+  border-style: dotted ;
+  border-color: #272220 ;
+  padding:30px ;
+
+}
+
+footer{
+  width: 500px ;
+  margin-left: auto;
+  margin-right: auto ;
+  text-align: fixed ; ;
+  font-size: 8pt ;
+  margin-top: 30px ;
+  margin-bottom: 30px ;
+
+}
